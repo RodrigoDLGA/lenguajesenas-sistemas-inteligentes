@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>carne-190233_1.jpg</filename>
+	<path>/home/rodrigo/Desktop/Lenguaje_Senas/RealTimeObjectDetection/Tensorflow/workspace/images/allimages/carne-190233_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>223</ymin>
+			<xmax>452</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
